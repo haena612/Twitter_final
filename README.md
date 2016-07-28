@@ -45,7 +45,7 @@ http://i.imgur.com/l7QFtui.gif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+how to interchange between reply and new tweet versions in UpdateViewController.. My reply image shows up occasionally but I don't know why.. :( 
 
 ## License
 
